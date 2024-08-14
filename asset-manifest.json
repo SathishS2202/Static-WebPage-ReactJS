@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Static-WebPage-ReactJS/static/css/main.feaa10a3.css",
+    "main.js": "/Static-WebPage-ReactJS/static/js/main.a7a39d8c.js",
+    "index.html": "/Static-WebPage-ReactJS/index.html",
+    "main.feaa10a3.css.map": "/Static-WebPage-ReactJS/static/css/main.feaa10a3.css.map",
+    "main.a7a39d8c.js.map": "/Static-WebPage-ReactJS/static/js/main.a7a39d8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feaa10a3.css",
+    "static/js/main.a7a39d8c.js"
+  ]
+}
